@@ -103,3 +103,4 @@ load_to_db(df, sql_connection, table_name)
 log_progress('sql loaded')
 # query
 run_query(f"SELECT * from {table_name} WHERE GDP_USD_billions >= 100", sql_connection)
+
