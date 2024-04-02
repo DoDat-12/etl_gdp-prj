@@ -1,0 +1,4 @@
+2024-Apr-03-06:38:46: extract successfully
+2024-Apr-03-06:38:46: transform successfully
+2024-Apr-03-06:38:46: csv loaded
+2024-Apr-03-06:38:46: sql loaded
